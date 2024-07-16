@@ -1,6 +1,3 @@
 html {
-  overflow: scroll;
-  scrollbar-width: thin;
-  scrollbar-color: #ccc;
-  scroll-behavior: smooth;
+	scroll-behavior: smooth;
 }
